@@ -1,0 +1,10 @@
+@use 'variables' as v;
+.discount{
+  width: 60px;
+  text-align: center;
+  background-color: v.$main;
+  position: absolute;
+  top: 0;
+  right: 0;
+  
+}

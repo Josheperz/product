@@ -1,0 +1,21 @@
+@use 'variables' as v;
+
+button{
+  width: 85px;
+  height: 35px;
+  border-radius: 16px;
+  border: none;
+  background-color: v.$main;
+  color: v.$white;
+  font-weight: bold;
+  cursor: pointer;
+  &:hover{
+    border: 1px solid v.$main;
+    background-color: v.$white;
+    color: v.$main;
+  }
+  &:active{
+   
+    transform: translatey(2px);
+  }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "name":"Rio Amazonas",
+    "price":600,
+    "discount": 30,
+    "url": "https://media.istockphoto.com/id/1081227250/es/foto/puesta-de-sol-de-r%C3%ADo-amazonas.jpg?s=612x612&w=0&k=20&c=7hDLS-3Z6XkYSGU8f2haHdEW_7X6egEIFHNGLqV_uTk="
+
+  },
+
+  {
+    "name":"Monte Roraima",
+    "price":550,
+    "discount": 20,
+    "url": "https://media.istockphoto.com/id/870309928/es/foto/monte-roraima.jpg?s=612x612&w=0&k=20&c=9ivi1mrCHqaKZ66KAfcYxtMb8QkK1E07g99saJi7yxM="
+
+  },
+
+  {
+    "name":"Merida",
+    "price":550,
+    "discount": 10,
+    "url": "https://media.istockphoto.com/id/685811536/es/foto/piedra-de-la-iglesia-san-rafael-de-mucuch%C3%ADes-estado-m%C3%A9rida-venezuela.jpg?s=612x612&w=0&k=20&c=0L6wF4ByjFHyLKEUJZke1J0MctmSRbdqj6gBKq_k11c="
+
+  },
+
+  {
+    "name":"Apure",
+    "price":450,
+    "discount": 10,
+    "url": "https://media.istockphoto.com/id/1310975146/es/foto/r%C3%ADo-yuruani-en-la-regi%C3%B3n-de-gran-sabana-en-el-parque-nacional-canaima-venezuela-pueblo.jpg?s=612x612&w=0&k=20&c=F3XFmijW5ivCLS0eSY2aj-nNsqJeCN600QlMJAXKfoo="
+
+  },
+
+  {
+    "name":"Rio Orinoco",
+    "price":460,
+    "discount": 5,
+    "url": "https://media.istockphoto.com/id/1259555225/es/foto/atardecer-en-la-selva-amaz%C3%B3nica.jpg?s=612x612&w=0&k=20&c=I_IMpfop4o1hzWzSHXkvMcQwmvIw6TEW8vUFTYu7GPg="
+
+  },
+
+  {
+    "name":"Margarita",
+    "price":700,
+    "discount": 15,
+    "url": "https://media.istockphoto.com/id/1249634250/es/foto/hermosa-orilla-de-la-playa.jpg?s=612x612&w=0&k=20&c=6SwT2lSOMbBoUHAKlKJjNUu7PAwD5_6DEMiiK1mKvi0="
+
+  },
+
+  {
+    "name":"Ocumare",
+    "price":600,
+    "discount": 5,
+    "url": "https://media.istockphoto.com/id/1019615930/es/foto/playa-del-caribe.jpg?s=612x612&w=0&k=20&c=BoiM9QaqpV7WYoP8ZWpXJcmZ8sQkcvxYPfuvu6x5d0s="
+
+  },
+
+  {
+    "name":"Puerto ordaz",
+    "price":700,
+    "discount": 8,
+    "url": "https://media.istockphoto.com/id/587545320/es/foto/la-llovizna.jpg?s=612x612&w=0&k=20&c=ArMsqgBagJNPLARjIT_qrOq1PE_u6Qt_ydVak5Fq-g4="
+
+  }
+]

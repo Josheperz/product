@@ -1,0 +1,6 @@
+@use 'variables' as v;
+
+.heart{
+  color:v.$main;
+  cursor: pointer;
+}
