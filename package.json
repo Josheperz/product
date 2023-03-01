@@ -9,6 +9,7 @@
     "url": "https://github.com/josheperz"
   },
   "license": "MIT",
+  "homepage": "http://josheperz.githud.io/product",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
